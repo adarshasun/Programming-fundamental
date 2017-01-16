@@ -1,7 +1,7 @@
 /*
 Name:Adarsha Sunchuri
 Lab Sheet:17
-Program:WAP to display the given pattern
+Program:WAP to find if the number is palidrome(same from both sides,eg.121) or not
 Date:16 Jan,2017
 */
 #include<stdio.h>
